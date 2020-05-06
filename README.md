@@ -24,7 +24,7 @@ npm install
 npm run dev
 ```
 
-Navigate to [localhost:3333](http://localhost:3000). You should see your app running.
+Navigate to [localhost:3000](http://localhost:3000). You should see your app running.
 
 ## Begin Reference
 
